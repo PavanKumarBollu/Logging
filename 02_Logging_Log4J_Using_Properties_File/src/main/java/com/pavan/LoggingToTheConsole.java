@@ -18,7 +18,7 @@ public class LoggingToTheConsole {
 	
 	static
 	{
-		PropertyConfigurator.configure("com.pavan.cfg.log4j.properties");
+		PropertyConfigurator.configure("src/main/java/com/pavan/cfgs/log4j.properties");
 		
 	}
 	
