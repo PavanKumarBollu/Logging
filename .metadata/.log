@@ -150,3 +150,9 @@ Java Model Exception: Error in Java Model (code 969): 01_Logging_Log4J does not 
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
 !SUBENTRY 1 org.eclipse.jdt.core 4 969 2025-04-01 02:21:04.841
 !MESSAGE 01_Logging_Log4J does not exist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-04-01 02:39:05.560
+!MESSAGE Classpath changed for project: 03_Logging_Log4J_HTML_Layout_FileAppender
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-04-01 02:39:06.174
+!MESSAGE Classpath changed for project: 03_Logging_Log4J_HTML_Layout_FileAppender
