@@ -422,3 +422,9 @@ java.nio.file.FileSystemException: D:\FullStack_Development\5_Code__Projects\2_B
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2025-04-01 02:49:28.390
 !MESSAGE Classpath changed for project: 05_Logging_Log4J_WorkingWith_File_Appenders_XML_Layout
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-04-01 02:52:33.130
+!MESSAGE Classpath changed for project: 06_Logging_Log4J_WorkingWith_Rolling_File_Appenders_Pattern_Layout
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-04-01 02:52:33.797
+!MESSAGE Classpath changed for project: 06_Logging_Log4J_WorkingWith_Rolling_File_Appenders_Pattern_Layout

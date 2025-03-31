@@ -1,0 +1,8 @@
+<log4j:event logger="com.pavan.LoggingToTheConsole" timestamp="1743456109823" level="INFO" thread="com.pavan.LoggingToTheConsole.main()">
+<log4j:message><![CDATA[Connection Established Succuess Fully]]></log4j:message>
+</log4j:event>
+
+<log4j:event logger="com.pavan.LoggingToTheConsole" timestamp="1743456109846" level="INFO" thread="com.pavan.LoggingToTheConsole.main()">
+<log4j:message><![CDATA[Query Got Executed and result set object assigned with data]]></log4j:message>
+</log4j:event>
+
