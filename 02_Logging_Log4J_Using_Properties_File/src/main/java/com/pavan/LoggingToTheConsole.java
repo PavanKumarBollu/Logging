@@ -9,6 +9,7 @@ import java.sql.Statement;
 import org.apache.log4j.ConsoleAppender;
 import org.apache.log4j.Level;
 import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
 import org.apache.log4j.SimpleLayout;
 
 public class LoggingToTheConsole {
@@ -17,10 +18,8 @@ public class LoggingToTheConsole {
 	
 	static
 	{
-		SimpleLayout sLayout = new SimpleLayout();
-		ConsoleAppender consoleAppender = new ConsoleAppender(sLayout);
-		logger.addAppender(consoleAppender);
-		logger.setLevel(Level.ALL);
+		PropertyConfigurator.configure("com.pavan.cfg.log4j.properties");
+		
 	}
 	
 	
