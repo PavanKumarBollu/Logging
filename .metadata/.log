@@ -156,3 +156,9 @@ Java Model Exception: Error in Java Model (code 969): 01_Logging_Log4J does not 
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2025-04-01 02:39:06.174
 !MESSAGE Classpath changed for project: 03_Logging_Log4J_HTML_Layout_FileAppender
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-04-01 02:46:43.331
+!MESSAGE Classpath changed for project: 04_Logging_Log4J_WorkingWith_Multiple_Appenders_HTMl_Layout
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-04-01 02:46:43.957
+!MESSAGE Classpath changed for project: 04_Logging_Log4J_WorkingWith_Multiple_Appenders_HTMl_Layout
