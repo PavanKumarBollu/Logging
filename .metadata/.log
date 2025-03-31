@@ -416,3 +416,9 @@ java.nio.file.FileSystemException: D:\FullStack_Development\5_Code__Projects\2_B
 	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2482)
 	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:89)
 	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:124)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-04-01 02:49:27.761
+!MESSAGE Classpath changed for project: 05_Logging_Log4J_WorkingWith_File_Appenders_XML_Layout
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-04-01 02:49:28.390
+!MESSAGE Classpath changed for project: 05_Logging_Log4J_WorkingWith_File_Appenders_XML_Layout
