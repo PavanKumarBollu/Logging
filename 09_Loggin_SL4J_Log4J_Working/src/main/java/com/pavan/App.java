@@ -1,4 +1,4 @@
-package PavanSolutionos._Loggin_SL4J_Log4J;
+package com.pavan;
 
 /**
  * Hello world!

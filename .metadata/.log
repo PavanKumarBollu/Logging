@@ -476,3 +476,36 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2025-04-01 22:29:22.996
 !MESSAGE Classpath changed for project: 09_Loggin_SL4J_Log4J_Working
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-04-01 22:30:50.627
+!MESSAGE Command list starting LS: org.springframework.tooling.boot.ls
+START:
+C:\Users\bpava\Downloads\SpringToolSuite\sts-4.29.1.RELEASE\plugins\org.eclipse.justj.openjdk.hotspot.jre.full.win32.x86_64_21.0.6.v20250130-0529\jre\bin\javaw.exe
+-Dsts.lsp.client=eclipse
+-Xmx1024m
+-XX:TieredStopAtLevel=1
+-Dspring.config.location=classpath:/application.properties
+-Xlog:jni+resolve=off
+-XX:ErrorFile=D:/FullStack_Development/5_Code__Projects/2_BackEnd/11_Logging/.metadata/.plugins/org.springframework.tooling.boot.ls/fatal-error-spring-boot_1743526850626
+-Dlanguageserver.hover-timeout=225
+-jar
+C:\Users\bpava\Downloads\SpringToolSuite\sts-4.29.1.RELEASE\plugins\org.springframework.tooling.boot.ls_1.61.1.202503181316\servers\spring-boot-language-server\spring-boot-language-server-1.61.1-SNAPSHOT-exec.jar
+END
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-04-01 22:30:50.628
+!MESSAGE DelegatingStreamConnectionProvider - Starting Boot LS
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2025-04-01 22:30:50.638
+!MESSAGE Started org.springframework.tooling.boot.ls LS process 1728
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-04-01 22:32:36.631
+!MESSAGE The artifact org.slf4j:slf4j-log4j12:jar:2.0.7 has been relocated to org.slf4j:slf4j-reload4j:jar:2.0.7
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-04-01 22:32:36.850
+!MESSAGE Classpath changed for project: 09_Loggin_SL4J_Log4J_Working
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-04-01 22:32:36.876
+!MESSAGE Classpath changed for project: 09_Loggin_SL4J_Log4J_Working
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-04-01 22:32:38.350
+!MESSAGE Classpath changed for project: 09_Loggin_SL4J_Log4J_Working
