@@ -473,3 +473,6 @@ This warning can be switched off on the Team > Git > Confirmations and Warnings 
 
 !ENTRY org.springframework.tooling.boot.ls 1 0 2025-04-01 22:07:20.188
 !MESSAGE Classpath changed for project: 08_Logging_Log4J_WorkingWith_JDBC_Appenders_Pattern_Layout
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-04-01 22:29:22.996
+!MESSAGE Classpath changed for project: 09_Loggin_SL4J_Log4J_Working
