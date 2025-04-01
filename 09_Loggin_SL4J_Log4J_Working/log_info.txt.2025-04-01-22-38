@@ -1,0 +1,2 @@
+2025-04-01 22:38:59 DEBUG        com.pavan.App       main com.pavan.App.main() 0 17  Control entering main()
+2025-04-01 22:38:59 ERROR        com.pavan.App       main com.pavan.App.main() 615 49  SQLException occured =>Access denied for user 'root'@'localhost' (using password: YES)===>1045

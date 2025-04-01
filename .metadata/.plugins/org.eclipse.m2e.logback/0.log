@@ -1880,3 +1880,7 @@
 2025-04-01 22:36:20,439 [Worker-39: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\FullStack_Development\5_Code__Projects\2_BackEnd\11_Logging\09_Loggin_SL4J_Log4J_Working\src\test\resources
 2025-04-01 22:37:08,110 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2025-04-01 22:37:08,112 [Worker-30: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\FullStack_Development\5_Code__Projects\2_BackEnd\11_Logging\09_Loggin_SL4J_Log4J_Working\src\test\resources
+2025-04-01 22:37:28,489 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-01 22:37:28,489 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\FullStack_Development\5_Code__Projects\2_BackEnd\11_Logging\09_Loggin_SL4J_Log4J_Working\src\test\resources
+2025-04-01 22:37:44,228 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-01 22:37:44,231 [Worker-37: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\FullStack_Development\5_Code__Projects\2_BackEnd\11_Logging\09_Loggin_SL4J_Log4J_Working\src\test\resources

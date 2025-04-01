@@ -24,9 +24,9 @@ public class App {
 			Class.forName("com.mysql.cj.jdbc.Driver");
 			logger.trace("Driver Loaded succesfully");
 
-			String url = "jdbc:mysql:///octbatch";
+			String url = "jdbc:mysql:///jdbc";
 			String user = "root";
-			String password = "root123";
+			String password = "Pav@0211";
 			connection = DriverManager.getConnection(url, user, password);
 			logger.info("Connection established succesfully");
 

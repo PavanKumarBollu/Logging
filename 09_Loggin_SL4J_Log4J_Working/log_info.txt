@@ -1,0 +1,4 @@
+2025-04-01 22:40:00 DEBUG        com.pavan.App       main com.pavan.App.main() 0 17  Control entering main()
+2025-04-01 22:40:01 INFO        com.pavan.App       main com.pavan.App.main() 653 31  Connection established succesfully
+2025-04-01 22:40:01 DEBUG        com.pavan.App       main com.pavan.App.main() 661 34  Statement object created
+2025-04-01 22:40:01 INFO        com.pavan.App       main com.pavan.App.main() 681 38  ResultSet object created by executing query

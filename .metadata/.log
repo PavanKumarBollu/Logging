@@ -521,3 +521,18 @@ END
 
 !ENTRY org.eclipse.m2e.logback.appender 2 0 2025-04-01 22:34:11.381
 !MESSAGE The artifact org.slf4j:slf4j-log4j12:jar:2.0.7 has been relocated to org.slf4j:slf4j-reload4j:jar:2.0.7
+
+!ENTRY org.eclipse.m2e.logback.appender 2 0 2025-04-01 22:38:43.775
+!MESSAGE The artifact org.slf4j:slf4j-log4j12:jar:2.0.7 has been relocated to org.slf4j:slf4j-reload4j:jar:2.0.7
+
+!ENTRY org.eclipse.lsp4e 2 0 2025-04-01 22:39:22.960
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:386)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2096)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:66)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:165)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:131)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
