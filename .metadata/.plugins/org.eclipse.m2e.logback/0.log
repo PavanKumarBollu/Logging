@@ -2085,3 +2085,15 @@
 2025-04-03 01:44:13,339 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /10_SpringBoot_Loggin_Using_Log4j/src/main/resources
 2025-04-03 01:44:13,342 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /10_SpringBoot_Loggin_Using_Log4j/src/test/java
 2025-04-03 01:44:13,343 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /10_SpringBoot_Loggin_Using_Log4j/src/test/resources
+2025-04-03 01:44:13,816 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2025-04-03 01:44:13,821 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2025-04-03 01:44:14,396 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: Pavan_Solutions:10_SpringBoot_Loggin_Using_Log4j:1.1 @ D:\FullStack_Development\5_Code__Projects\2_BackEnd\11_Logging\10_SpringBoot_Loggin_Using_Log4j\pom.xml.
+2025-04-03 01:44:14,867 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /10_SpringBoot_Loggin_Using_Log4j/src/main/java
+2025-04-03 01:44:14,868 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /10_SpringBoot_Loggin_Using_Log4j/src/main/resources
+2025-04-03 01:44:14,869 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /10_SpringBoot_Loggin_Using_Log4j/src/main/resources
+2025-04-03 01:44:14,870 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /10_SpringBoot_Loggin_Using_Log4j/src/test/java
+2025-04-03 01:44:14,871 [Worker-1: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /10_SpringBoot_Loggin_Using_Log4j/src/test/resources
+2025-04-03 01:44:15,145 [Worker-1: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 1.00 sec, update config takes 0.00 sec 
+2025-04-03 01:44:16,079 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2025-04-03 01:44:16,100 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2025-04-03 01:44:16,107 [Worker-5: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\FullStack_Development\5_Code__Projects\2_BackEnd\11_Logging\10_SpringBoot_Loggin_Using_Log4j\src\test\resources
