@@ -1,0 +1,6 @@
+2025-04-03 02:53:04 INFO  Starting Application using Java 21.0.6 with PID 17584 (D:\FullStack_Development\5_Code__Projects\2_BackEnd\11_Logging\11_SpringBoot_Loggin_Using_Log4j2\target\classes started by bpava in D:\FullStack_Development\5_Code__Projects\2_BackEnd\11_Logging\11_SpringBoot_Loggin_Using_Log4j2)
+2025-04-03 02:53:04 INFO  No active profile set, falling back to 1 default profile: "default"
+2025-04-03 02:53:04 INFO  Started Application in 1.077 seconds (process running for 1.95)
+2025-04-03 02:53:04 INFO  Course Content chosen in 1.Docker 2. Kubernates 3.  Azure 4. AWS.....
+
+2025-04-03 02:53:04 INFO  Course Price of the chosen Course Is : 700.0
