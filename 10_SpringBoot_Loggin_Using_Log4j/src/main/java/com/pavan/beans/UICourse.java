@@ -1,6 +1,8 @@
 package com.pavan.beans;
 
+import org.springframework.stereotype.Component;
 
+@Component(value="uiCourse")
 public class UICourse implements ICourse {
 	static
 	{
