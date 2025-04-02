@@ -1,12 +1,14 @@
 package com.pavan.beans;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.stereotype.Component;
 
 @Component(value="student")
 public class Student {
 	
 	@Autowired
+	@Qualifier("courseId")
 	private ICourse course;
 
 	static {
