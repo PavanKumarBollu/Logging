@@ -1021,3 +1021,6 @@ java.util.concurrent.TimeoutException
 	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:670)
 	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:607)
 	at org.eclipse.equinox.launcher.Main.run(Main.java:1492)
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2025-04-03 02:43:26.574
+!MESSAGE Classpath changed for project: 11_SpringBoot_Loggin_Using_Log4j2
