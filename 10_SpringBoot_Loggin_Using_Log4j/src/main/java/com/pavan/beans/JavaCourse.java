@@ -1,10 +1,9 @@
 package com.pavan.beans;
 
-import org.springframework.context.annotation.Primary;
 import org.springframework.stereotype.Component;
 
 @Component(value = "java")
-@Primary
+
 public class JavaCourse implements ICourse {
 
 	static
