@@ -1,5 +1,9 @@
 package com.pavan.beans;
 
+import org.springframework.stereotype.Component;
+
+@Component(value="cloudCourse")
+
 public class CloudCourse implements ICourse {
 	static
 	{
