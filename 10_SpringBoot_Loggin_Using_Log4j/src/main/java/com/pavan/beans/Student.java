@@ -32,12 +32,16 @@ public class Student {
 		System.out.println("Student Class ExamPreparation Method Got Called .....\n");
 		System.out.println("subject Selected Is : " + course.getClass().getName() + ".....\n");
 		
-		
 		String courseContent = course.courseContent();
 		System.out.println("Course Content is : " + courseContent + ".....\n");
+		logger.info("Course Content chosen in " + courseContent);
 		
 		float price = course.price();
 		System.out.println("Course Price is : " + price + ".....\n");
+		logger.info("Course Price of the chosen Course Is : " + price );
+		
+		
+		logger.debug("controll comming out from the Student Class ExamPreparation Method...");
 		
 	}
 
