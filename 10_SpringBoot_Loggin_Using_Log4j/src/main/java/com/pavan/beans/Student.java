@@ -1,8 +1,9 @@
 package com.pavan.beans;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
 
-@
+@Component(value="student")
 public class Student {
 	@Autowired
 	private ICourse course;
