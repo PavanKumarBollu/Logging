@@ -2078,3 +2078,4 @@
 2025-04-01 22:39:57,668 [Worker-40: Launching 09_Loggin_SL4J_Log4J_Working (2)] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B -Dstyle.color=always exec:java
 2025-04-01 22:40:07,379 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
 2025-04-01 22:40:07,382 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory D:\FullStack_Development\5_Code__Projects\2_BackEnd\11_Logging\09_Loggin_SL4J_Log4J_Working\src\test\resources
+2025-04-03 01:41:45,935 [Worker-6: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
