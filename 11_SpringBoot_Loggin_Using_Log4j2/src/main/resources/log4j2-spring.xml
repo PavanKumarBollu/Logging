@@ -1,10 +1,6 @@
 <Configuration>
 	<Appenders>
-		<RollingFile
-			name="rollingFile"
-			fileName="app_msg.log"
-			filePattern="app_msg.%d{yyyy-MM-dd-hh-mm}.log.gz"
-			ignoreExceptions="false">
+		<RollingFile	name="rollingFile"	fileName="app_msg.log" filePattern="app_msg.%d{yyyy-MM-dd-hh-mm}.log.gz" ignoreExceptions="false">
 			<PatternLayout>
 				<Pattern>%d{yyyy-MM-dd HH:mm:ss} %-5p %m%n</Pattern>
 			</PatternLayout>
