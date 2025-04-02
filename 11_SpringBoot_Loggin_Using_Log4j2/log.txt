@@ -1,0 +1,10 @@
+com.pavan.Application 1358 main  INFO  Starting Application using Java 21.0.6 with PID 3364 (D:\FullStack_Development\5_Code__Projects\2_BackEnd\11_Logging\11_SpringBoot_Loggin_Using_Log4j2\target\classes started by bpava in D:\FullStack_Development\5_Code__Projects\2_BackEnd\11_Logging\11_SpringBoot_Loggin_Using_Log4j2) 2025-04-03 02:48:02,994  
+ com.pavan.Application 1362 main  INFO  No active profile set, falling back to 1 default profile: "default" 2025-04-03 02:48:02,998  
+ com.pavan.Application 1937 main  INFO  Started Application in 1.097 seconds (process running for 1.973) 2025-04-03 02:48:03,573  
+ com.pavan.beans.Student 1942 main  DEBUG  Control entering into Student Exampreparation  method..... 2025-04-03 02:48:03,578  
+ com.pavan.beans.JavaCourse 1944 main  DEBUG  Control entering into JavaCourse CourseContent methods..... 2025-04-03 02:48:03,580  
+ com.pavan.beans.Student 1944 main  INFO  Course Content chosen in 1. Opps 2. Collections 3. Exception Handling.....
+ 2025-04-03 02:48:03,580  
+ com.pavan.beans.Student 1945 main  INFO  Course Price of the chosen Course Is : 500.0 2025-04-03 02:48:03,581  
+ com.pavan.beans.Student 1946 main  DEBUG  controll comming out from the Student Class ExamPreparation Method... 2025-04-03 02:48:03,582  
+ 
