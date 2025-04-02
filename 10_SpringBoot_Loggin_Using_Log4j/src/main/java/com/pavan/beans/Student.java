@@ -20,6 +20,19 @@ public class Student {
 		
 		
 		String courseContent = course.courseContent();
+		System.out.println("Course Content is : " + courseContent + ".....\n");
+		
+		float price = course.price();
+		System.out.println("Course Price is : " + price + ".....\n");
+		
 	}
+
+
+
+	@Override
+	public String toString() {
+		return "Student [course=" + course + "]";
+	}
+	
 
 }

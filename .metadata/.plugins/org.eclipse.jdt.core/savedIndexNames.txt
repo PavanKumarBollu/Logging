@@ -48,7 +48,6 @@ INDEX VERSION 1.134+D:\FullStack_Development\5_Code__Projects\2_BackEnd\11_Loggi
 1527358441.index
 1282433819.index
 428039157.index
-2944850365.index
 2141042138.index
 1865797976.index
 3755343702.index
