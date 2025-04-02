@@ -5,6 +5,7 @@ import org.springframework.stereotype.Component;
 
 @Component(value="student")
 public class Student {
+	
 	@Autowired
 	private ICourse course;
 
