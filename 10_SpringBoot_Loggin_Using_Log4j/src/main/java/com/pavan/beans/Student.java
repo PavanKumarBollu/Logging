@@ -1,6 +1,10 @@
 package com.pavan.beans;
 
+import org.springframework.beans.factory.annotation.Autowired;
+
+@
 public class Student {
+	@Autowired
 	private ICourse course;
 
 	static {
