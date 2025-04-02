@@ -5,8 +5,7 @@
 				<Pattern>%d{yyyy-MM-dd HH:mm:ss} %-5p %m%n</Pattern>
 			</PatternLayout>
 			<Policies>
-				<TimeBasedTriggeringPolicy
-					filePattern="app_msg.%d{yyyy-MM-dd-hh-mm}.log.gz" />
+				<TimeBasedTriggeringPolicy	filePattern="app_msg.%d{yyyy-MM-dd-hh-mm}.log.gz" />
 			</Policies>
 			<DefaultRolloverStrategy max="5" />
 		</RollingFile>
